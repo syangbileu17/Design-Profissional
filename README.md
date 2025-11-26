@@ -1,4 +1,5 @@
 💼 Design Profissional – Carreira em Tecnologia da Informação
+
 Olá!
 
 Este repositório reúne os exercícios e materiais desenvolvidos na disciplina Design Profissional, com foco no crescimento de carreira, na construção de uma identidade profissional sólida e na preparação para atuar no mercado de TI.
